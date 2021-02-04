@@ -250,9 +250,12 @@ section{
     .home .home-content .text-2{
         font-size: 40px;
     }
-     .menu-btn{
-        margin-right: 100px;
+    .about .about-content .left img{
+    height: 300px;
+    width: 200px;
+ 
     }
+
     .home .home-content .text-3{
         font-size: 27px;
     }
