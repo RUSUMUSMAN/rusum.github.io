@@ -16,6 +16,7 @@
     position: fixed;
     padding: 15px 0;
     width: 100%;
+    z-index:999;
     font-family: 'Ubuntu',sans-serif;
     transition: all 0.3s ease;
 }
